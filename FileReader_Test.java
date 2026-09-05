@@ -1,4 +1,3 @@
-
 package file.reader;
 
 import java.io.*;
@@ -28,6 +27,7 @@ public class FileReader_Test {
         catch(Exception e){
             
             System.out.println(e.getMessage());
+            
         }
     }
     
